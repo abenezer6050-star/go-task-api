@@ -1,0 +1,5 @@
+# built program
+go-task-api
+go-task-api.exe
+*.test
+*.out
